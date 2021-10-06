@@ -1,5 +1,3 @@
-# Final Capstone
+# Virtual Stock Market Game
 
-This directory contains all of the starter projects for the final capstone. The Vue starter project works with both the Java and .NET backend projects with a single configuration update that you can read about in the README.
-
-Each project contains instructions that provides information about the starting code and explains how to get started with the final capstone project.
+This repository contains a virtual stock market game that allows users to compete with their friends to see who can make the most money in the stock market in a given period of time. It was built with an Agile scrum team of four (Russell Himes, Grace Malles, and Alison Walker) as a final capstone project at Tech Elevator's 14 week coding bootcamp. The project uses Java and Spring Boot on the back end and Vue.js on the front end. We used Finnhub API for real-time stock data and ECharts library to display data.
