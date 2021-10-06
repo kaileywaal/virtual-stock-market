@@ -1,5 +1,8 @@
 # Virtual Stock Market Game
 
+[View Live](https://nlr3-stock-market-game.netlify.app)
+
+
 This repository contains a virtual stock market game that allows users to compete with their friends to see who can make the most money in the stock market in a given period of time. It was built with an Agile scrum team of four (Russell Himes, Grace Malles, and Alison Walker) as a final capstone project at [Tech Elevator's 14 week coding bootcamp](https://www.techelevator.com/aptitude-test-referred?mbsy_source=183cf48e-9fe1-484e-a967-fd43e3c4fb34&mbsy_exp=Mon%2C+01+Jul+2024+17%3A08%3A30+GMT&campaignid=36038&mbsy=3s6sdT). The project uses Java and Spring Boot on the back end and Vue.js on the front end. We used Finnhub API for real-time stock data and ECharts library to display data.
 
 ## Features
